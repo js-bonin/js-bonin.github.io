@@ -65,11 +65,8 @@
       
       .js-subtitle {
         position: absolute;
-        color: #000;
-        font-size: 24px;
-        font-weight: 480;
+       
         z-index: 5;
-        top: 60px;
         left:0;
 		right:0;
 		margin-left:auto;
