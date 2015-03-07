@@ -52,7 +52,6 @@
       
       .js-title {
         position: absolute;
-        color: #000;
         font-size: 30px;
         font-weight: 600;
         z-index: 5;
@@ -61,16 +60,20 @@
 		right:0;
 		margin-left:auto;
 		margin-right:auto;
+		text-align: center
       }
       
       .js-subtitle {
         position: absolute;
-       
+        font-size: 24px;
+        font-weight: 480;
         z-index: 5;
+        top: 60px;
         left:0;
 		right:0;
 		margin-left:auto;
 		margin-right:auto;
+		text-align: center
       }
       
       .photo-js {
