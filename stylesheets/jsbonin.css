@@ -31,7 +31,7 @@
         font-weight: 500;
         position: absolute;
         bottom: 30px;
-        padding-left: 35px;
+        padding-left: 20px;
       }
       
       .header-panel h2 {
@@ -40,7 +40,7 @@
         font-weight: 350;
         position: absolute;
         bottom: 10px;
-        padding-left: 35px;
+        padding-left: 20px;
       }
       
       
@@ -49,7 +49,7 @@
         position: absolute;
         z-index: 5;
         top: 40px;
-        right: 35px;
+        right: 20px;
       }
       
       .linkedin {
@@ -57,7 +57,7 @@
         position: absolute;
         z-index: 5;
         top: 100px;
-        right: 35px;
+        right: 20px;
       }
       
       .twitter{
@@ -65,22 +65,22 @@
         position: absolute;
         z-index: 5;
         top: 160px;
-        right: 35px;
+        right: 20px;
       }
       .google-plus {
       	background-color: #fff;
         position: absolute;
         z-index: 5;
         top: 220px;
-        right: 35px;
+        right: 20px;
       }
       
       
       .photo-js {
         position: absolute;
-        top: 32px;
-        left: 32px;
-        z-index: 4;
+        top: 20px;
+        left: 20px;
+        z-index: 5;
       }
       
       .menu {
@@ -98,7 +98,7 @@
       }
       .menu ul li {
         list-style: none;
-        padding: 20px 0 20px 50px;
+        padding: 20px 0 20px 20px;
         font-size: 15px;
         font-weight: normal;
         cursor: pointer;
@@ -121,7 +121,7 @@
       }
       .pages > div {
         padding: 0 5px;
-        padding-top: 144px;
+        padding-top: 200px;
       }
       .pages .header {
       	color : #666;
