@@ -17,7 +17,7 @@
       }
       .header-panel {
         background-color: #00BCD4;
-        height: 200px;
+        height: 250px;
         position: relative;
         z-index: 3;
       }
@@ -52,7 +52,7 @@
       
       .photo-js {
         position: absolute;
-        top: 10px;
+        top: 35px;
         z-index: 5;
         left:0;
 		right:0;
