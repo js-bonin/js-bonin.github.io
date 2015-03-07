@@ -55,6 +55,7 @@
         color: #000;
         font-size: 30px;
         font-weight: 600;
+        z-index: 5;
         top: 35px;
         left:0;
 		right:0;
@@ -67,6 +68,7 @@
         color: #000;
         font-size: 24px;
         font-weight: 480;
+        z-index: 5;
         top: 60px;
         left:0;
 		right:0;
