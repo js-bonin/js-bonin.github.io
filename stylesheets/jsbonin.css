@@ -45,6 +45,7 @@
       
       
       .github {
+      	background-color: #fff;
         position: absolute;
         z-index: 5;
         top: 35px;
