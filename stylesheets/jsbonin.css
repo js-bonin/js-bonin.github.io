@@ -58,6 +58,10 @@
         padding-left: 35px;
       }
       
+      .header h1 {
+        color: #006064;
+      }
+      
       .menu {
         overflow: auto;
         padding: 0;
