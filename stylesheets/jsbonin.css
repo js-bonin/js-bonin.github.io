@@ -17,7 +17,7 @@
       }
       .header-panel {
         background-color: #00BCD4;
-        height: 320px;
+        height: 350px;
         position: relative;
         z-index: 3;
       }
@@ -47,40 +47,25 @@
       .header-icons {
         position: absolute;
         z-index: 5;
-        top: 135px;
-        text-align: center;
-        left:0;
-		right:0;
-		margin-left:auto;
-		margin-right:auto;
+        right: 35px;
       }
       
       .js-title {
       	color: #222;
         position: absolute;
-        font-size: 30px;
-        font-weight: 600;
+        font-size: 24px;
+        font-weight: 400;
         z-index: 5;
-        top: 30px;
-        left:0;
-		right:0;
-		margin-left:auto;
-		margin-right:auto;
-		text-align: center;
+        bottom: 60px;
       }
       
       .js-subtitle {
       	color: #222;
         position: absolute;
-        font-size: 24px;
-        font-weight: 480;
+        font-size: 18px;
+        font-weight: 300;
         z-index: 5;
-        top: 73px;
-        left:0;
-		right:0;
-		margin-left:auto;
-		margin-right:auto;
-		text-align: center;
+        bottom: 10px;
       }
       
       .photo-js {
@@ -128,7 +113,7 @@
       }
       .pages > div {
         padding: 0 5px;
-        padding-top: 205px;
+        padding-top: 230px;
       }
       .pages .header {
       	color : #222;
