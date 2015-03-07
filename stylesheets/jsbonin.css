@@ -53,6 +53,7 @@
       }
       
       .linkedin {
+      	background-color: #fff;
         position: absolute;
         z-index: 5;
         top: 85px;
@@ -60,12 +61,14 @@
       }
       
       .twitter{
+      	background-color: #fff;
         position: absolute;
         z-index: 5;
         top: 135px;
         right: 35px;
       }
       .google-plus {
+      	background-color: #fff;
         position: absolute;
         z-index: 5;
         top: 185px;
