@@ -98,7 +98,7 @@
       }
       .pages > div {
         padding: 0 5px;
-        padding-top: 150px;
+        padding-top: 250px;
       }
       .pages .header {
       	color : #006064;
@@ -124,7 +124,7 @@
       #opensource {
         color: rgba(0, 0, 0, 0.62);
         position: fixed;
-        margin-top: 150px;
+        margin-top: 50px;
         margin-left: 50px;
         z-index: 100;
       }
