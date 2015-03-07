@@ -17,7 +17,7 @@
       }
       .header-panel {
         background-color: #00BCD4;
-        height: 350px;
+        height: 370px;
         position: relative;
         z-index: 3;
       }
@@ -44,17 +44,30 @@
       }
       
       
-      .header-icons {
+      .github {
         position: absolute;
         z-index: 5;
         top: 35px;
         right: 35px;
       }
       
+      .linkedin {
+        position: absolute;
+        z-index: 5;
+        top: 55px;
+        right: 35px;
+      }
+      
+      .twitter{
+        position: absolute;
+        z-index: 5;
+        top: 75px;
+        right: 35px;
+      }
       .google-plus {
         position: absolute;
         z-index: 5;
-        top: 65px;
+        top: 95px;
         right: 35px;
       }
       
