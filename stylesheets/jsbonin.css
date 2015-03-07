@@ -54,20 +54,20 @@
       .linkedin {
         position: absolute;
         z-index: 5;
-        top: 55px;
+        top: 85px;
         right: 35px;
       }
       
       .twitter{
         position: absolute;
         z-index: 5;
-        top: 75px;
+        top: 135px;
         right: 35px;
       }
       .google-plus {
         position: absolute;
         z-index: 5;
-        top: 95px;
+        top: 185px;
         right: 35px;
       }
       
@@ -117,7 +117,7 @@
       }
       .pages > div {
         padding: 0 5px;
-        padding-top: 230px;
+        padding-top: 144px;
       }
       .pages .header {
       	color : #222;
