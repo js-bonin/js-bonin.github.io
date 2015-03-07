@@ -47,7 +47,7 @@
       .header-icons {
         position: absolute;
         z-index: 5;
-        top: 125px;
+        top: 135px;
         text-align: center;
         left:0;
 		right:0;
@@ -56,6 +56,7 @@
       }
       
       .js-title {
+      	color: #222;
         position: absolute;
         font-size: 30px;
         font-weight: 600;
@@ -69,6 +70,7 @@
       }
       
       .js-subtitle {
+      	color: #222;
         position: absolute;
         font-size: 24px;
         font-weight: 480;
@@ -126,7 +128,7 @@
       }
       .pages > div {
         padding: 0 5px;
-        padding-top: 190px;
+        padding-top: 205px;
       }
       .pages .header {
       	color : #222;
