@@ -47,7 +47,8 @@
       .header-icons {
         position: absolute;
         z-index: 5;
-        top: 100px;
+        top: 120px;
+        text-align: center
         left:0;
 		right:0;
 		margin-left:auto;
