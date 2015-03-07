@@ -17,7 +17,7 @@
       }
       .header-panel {
         background-color: #00BCD4;
-        height: 270px;
+        height: 320px;
         position: relative;
         z-index: 3;
       }
@@ -68,7 +68,7 @@
         font-size: 24px;
         font-weight: 480;
         z-index: 5;
-        top: 60px;
+        top: 80px;
         left:0;
 		right:0;
 		margin-left:auto;
@@ -78,8 +78,8 @@
       
       .photo-js {
         position: absolute;
-        top: 35px;
-        left: 35px;
+        top: 15px;
+        left: 32px;
         z-index: 5;
       }
       
@@ -121,7 +121,7 @@
       }
       .pages > div {
         padding: 0 5px;
-        padding-top: 230px;
+        padding-top: 190px;
       }
       .pages .header {
       	color : #006064;
