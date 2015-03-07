@@ -50,14 +50,35 @@
         padding-left: 32px;
       }
       
-      .photo-js {
+      .js-title {
         position: absolute;
+        color: #000;
+        font-size: 30px;
+        font-weight: 600;
         top: 35px;
-        z-index: 5;
         left:0;
 		right:0;
 		margin-left:auto;
 		margin-right:auto;
+      }
+      
+      .js-subtitle {
+        position: absolute;
+        color: #000;
+        font-size: 24px;
+        font-weight: 480;
+        top: 60px;
+        left:0;
+		right:0;
+		margin-left:auto;
+		margin-right:auto;
+      }
+      
+      .photo-js {
+        position: absolute;
+        top: 35px;
+        left: 35px;
+        z-index: 5;
       }
       
       .menu {
