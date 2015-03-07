@@ -48,7 +48,7 @@
       	background-color: #fff;
         position: absolute;
         z-index: 5;
-        top: 35px;
+        top: 40px;
         right: 35px;
       }
       
@@ -56,7 +56,7 @@
       	background-color: #fff;
         position: absolute;
         z-index: 5;
-        top: 85px;
+        top: 140px;
         right: 35px;
       }
       
@@ -64,14 +64,14 @@
       	background-color: #fff;
         position: absolute;
         z-index: 5;
-        top: 135px;
+        top: 240px;
         right: 35px;
       }
       .google-plus {
       	background-color: #fff;
         position: absolute;
         z-index: 5;
-        top: 185px;
+        top: 340px;
         right: 35px;
       }
       
