@@ -30,7 +30,7 @@
         font-size: 26px;
         font-weight: 500;
         position: absolute;
-        bottom: 100px;
+        bottom: 30px;
         padding-left: 35px;
       }
       
@@ -39,7 +39,7 @@
         font-size: 16px;
         font-weight: 350;
         position: absolute;
-        bottom: 70px;
+        bottom: 10px;
         padding-left: 35px;
       }
       
@@ -47,26 +47,17 @@
       .header-icons {
         position: absolute;
         z-index: 5;
+        top: 35px;
         right: 35px;
       }
       
-      .js-title {
-      	color: #222;
+      .google-plus {
         position: absolute;
-        font-size: 24px;
-        font-weight: 400;
         z-index: 5;
-        bottom: 60px;
+        top: 65px;
+        right: 35px;
       }
       
-      .js-subtitle {
-      	color: #222;
-        position: absolute;
-        font-size: 18px;
-        font-weight: 300;
-        z-index: 5;
-        bottom: 10px;
-      }
       
       .photo-js {
         position: absolute;
