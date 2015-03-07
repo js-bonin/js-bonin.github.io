@@ -17,7 +17,7 @@
       }
       .header-panel {
         background-color: #00BCD4;
-        height: 250px;
+        height: 270px;
         position: relative;
         z-index: 3;
       }
@@ -98,7 +98,7 @@
       }
       .pages > div {
         padding: 0 5px;
-        padding-top: 250px;
+        padding-top: 230px;
       }
       .pages .header {
       	color : #006064;
