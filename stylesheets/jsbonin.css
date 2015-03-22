@@ -20,12 +20,6 @@
     margin-right: 40px;
   }
   
-  .photo-1 {
-	  background-image: url('../images/photos/DSC_0339-2.JPG');
-	  background-repeat: no-repeat;
-	  background-size: contain;
-  }
-	
 	{
         box-sizing: border-box;
       }
