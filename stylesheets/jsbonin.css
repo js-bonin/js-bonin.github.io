@@ -20,6 +20,17 @@
     margin-right: 40px;
   }
   
+  #im {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url("http://i.imgur.com/E8e144F.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+  
 	{
         box-sizing: border-box;
       }
