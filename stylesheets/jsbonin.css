@@ -12,6 +12,14 @@
 	filter: alpha(opacity=0);
 	}
 	
+	.slick-prev {
+    margin-left: 40px;
+  }
+
+  .slick-next {
+    margin-right: 40px;
+  }
+	
 	{
         box-sizing: border-box;
       }
