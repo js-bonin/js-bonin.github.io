@@ -20,6 +20,11 @@
     margin-right: 40px;
   }
   
+  .photo-wrapper{
+    padding-left: 40px;
+	height: 1080px;
+  }
+  
   #im {
     position: absolute;
     top: 0;
