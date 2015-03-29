@@ -24,6 +24,9 @@
 	height: 1080px;
   }
   
+  .photo-img {max-width: 100%;height: auto;}
+
+  
 #im {
     position: absolute;
     top: 0;
