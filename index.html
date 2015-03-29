@@ -67,6 +67,12 @@
 			<div class="well page" id="photos">
 				<h1 class="header">Photography</h1>
 				
+				<div class="slick-slider">
+    				<div><img data-lazy="http://i.imgur.com/1Sta7BT.jpg"/></div>
+   					<div><img data-lazy="http://i.imgur.com/3NXuQe4.jpg"/></div>
+    				<div><img data-lazy="http://i.imgur.com/E8e144F.jpg"/></div>
+  				</div>
+				
 				<div class="row">
 					 <div class="col-xs-11 photo-wrapper">
 						  <div id="im"></div>
@@ -203,6 +209,7 @@
 		  $('.slick-slider').slick({
 		   infinite: true,
 		   dots:true,
+		   lazyLoad: 'ondemand',
 		   arrows:true,
 		   autoplay: true,
 		   autoplaySpeed: 2000,
