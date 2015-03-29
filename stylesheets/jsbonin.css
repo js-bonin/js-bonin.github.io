@@ -19,47 +19,10 @@
   .slick-next {
     margin-right: 40px;
   }
-  
-  .photo-wrapper{
-	height: 1080px;
-  }
+
   
   .photo-img {max-width: 100%;height: auto;}
 
-  
-#im {
-    position: absolute;
-    top: 0;
-    left: 15px;
-    right: 0;
-    bottom: 0;
-    background-image: url("http://i.imgur.com/E8e144F.jpg");
-    background-repeat: no-repeat;
-    background-size: contain;
-}
-
-#im-1 {
-    position: absolute;
-    top: 0;
-    left: 15px;
-    right: 0;
-    bottom: 0;
-    background-image: url("http://i.imgur.com/1Sta7BT.jpg");
-    background-repeat: no-repeat;
-    background-size: contain;
-}
-
-#im-2 {
-    position: absolute;
-    top: 0;
-    left: 15px;
-    right: 0;
-    bottom: 0;
-    background-image: url("http://i.imgur.com/3NXuQe4.jpg");
-    background-repeat: no-repeat;
-    background-size: contain;
-}
-  
 	{
         box-sizing: border-box;
       }
@@ -168,7 +131,7 @@
       }
       .pages > div {
         padding: 0 5px;
-        padding-top: 160px;
+        padding-top: 240px;
       }
       .pages .header {
       	color : #666;
